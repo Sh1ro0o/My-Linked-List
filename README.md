@@ -1,7 +1,7 @@
 # My Linked List
-Here I created my version of a linked list
+Here I created my version of a linked list <br/>
 
 ## Functionalities:
--Add
--Delete(Index[0-Size])
+-Add <br/>
+-Delete(Index[0-Size]) <br/>
 -Print
